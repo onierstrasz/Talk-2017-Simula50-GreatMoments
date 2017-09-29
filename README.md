@@ -1,15 +1,11 @@
 # Talk-2017-Simula50-GreatMoments
 
-This talk was given at the 50 years anniversary of Simula celebration held in Oslo on September 26, 2017. In it, I present a personal tour of some of the milestones in the history of OOP.
+This talk was given at the [50 years anniversary of Simula celebration](http://simula67.at.ifi.uio.no/50years/) held in Oslo on September 26, 2017. In it, I present a personal tour of some of the milestones in the history of OOP.
 
-	http://simula67.at.ifi.uio.no/50years/
+**Abstract:** Object-Oriented Programming has matured over the years from being an exotic (and oft-derided) programming paradigm to an established, successful (and oft-derided) cornerstone of modern software development. This talk will present a very personal tour of some of the milestones in the history of OOP, from its very beginnings to the present day.
 
-The PDF is available on SlideShare:
+The PDF is available on [SlideShare](https://www.slideshare.net/onierstrasz/great-moments-in-the-history-of-oop).
 
-	https://www.slideshare.net/onierstrasz/great-moments-in-the-history-of-oop
+This repository resides on [GitHub](https://github.com/onierstrasz/Talk-2017-Simula50-GreatMoments).
 
-This repository resides here:
-
-	https://github.com/onierstrasz/Talk-2017-Simula50-GreatMoments
-
-2017-09-29 -- ON
+2017-09-29 — ON
